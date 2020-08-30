@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Theme3/static/css/main.2b0e5440.chunk.css",
+    "main.js": "/React-Theme3/static/js/main.7f06d0be.chunk.js",
+    "main.js.map": "/React-Theme3/static/js/main.7f06d0be.chunk.js.map",
+    "runtime-main.js": "/React-Theme3/static/js/runtime-main.366e04a6.js",
+    "runtime-main.js.map": "/React-Theme3/static/js/runtime-main.366e04a6.js.map",
+    "static/js/2.ce05fc45.chunk.js": "/React-Theme3/static/js/2.ce05fc45.chunk.js",
+    "static/js/2.ce05fc45.chunk.js.map": "/React-Theme3/static/js/2.ce05fc45.chunk.js.map",
+    "index.html": "/React-Theme3/index.html",
+    "precache-manifest.507d1634ad3148f49c2e4e69a06c1178.js": "/React-Theme3/precache-manifest.507d1634ad3148f49c2e4e69a06c1178.js",
+    "service-worker.js": "/React-Theme3/service-worker.js",
+    "static/css/main.2b0e5440.chunk.css.map": "/React-Theme3/static/css/main.2b0e5440.chunk.css.map",
+    "static/js/2.ce05fc45.chunk.js.LICENSE.txt": "/React-Theme3/static/js/2.ce05fc45.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/React-Theme3/static/media/footer-bg.e77efd21.jpg",
+    "static/media/portfolio-freelance.jpg": "/React-Theme3/static/media/portfolio-freelance.ec8b30dc.jpg",
+    "static/media/screenshot-jevelin-startup-clean.jpg": "/React-Theme3/static/media/screenshot-jevelin-startup-clean.3923df80.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.366e04a6.js",
+    "static/js/2.ce05fc45.chunk.js",
+    "static/css/main.2b0e5440.chunk.css",
+    "static/js/main.7f06d0be.chunk.js"
+  ]
+}
